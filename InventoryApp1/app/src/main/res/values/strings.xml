@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inventory App 1</string>
+    <string name="groceryItem">Grocery Item</string>
+    <string name="grocerySupplier">Joe\'s Produce</string>
+</resources>
